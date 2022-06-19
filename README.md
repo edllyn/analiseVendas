@@ -1,6 +1,6 @@
 # Analise de Vendas
 
-A base de dados é composto por dados de uma empresa que vende bermudas e são 5 sedes. 
+A base de dados é composta por dados de uma empresa que vende bermudas e são 5 sedes. 
 Nesta base foi utilizado pandas para realizar uma analise simples de faturamento,
 qual loja vende mais e qual produto foi mais vendido.
 
